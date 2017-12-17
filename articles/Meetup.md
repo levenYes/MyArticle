@@ -1,6 +1,6 @@
 ---
 title: 参加完RocketMQ Meetup深圳站，回顾和想法
-date: 2017/12/18
+date: 2017/12/17
 categories: 技术博客
 ---
 
