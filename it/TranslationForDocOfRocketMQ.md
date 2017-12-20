@@ -181,4 +181,6 @@ public class OnewayProducer {
 
 ## 最后说点什么
 
-翻译文档的地址在https://github.com/levenYes/RocketMQ-ChineseDoc，感兴趣的朋友可以关注一下，给个Star。我会陆陆续续把文档翻译好，上传上去。如果有志同道合的朋友想参与进来，可以试着翻译一两节，然后新建一个Pull request。或者直接发邮件给到我的邮箱levenyes@icloud.com，互相沟通交流学习。
+翻译文档的地址在https://github.com/levenYes/RocketMQ-ChineseDoc.
+
+感兴趣的朋友可以关注一下，给个Star。我会陆陆续续把文档翻译好，上传上去。如果有志同道合的朋友想参与进来，可以试着翻译一两节，然后新建一个Pull request。或者直接发邮件给到我的邮箱levenyes@icloud.com，互相沟通交流学习。
