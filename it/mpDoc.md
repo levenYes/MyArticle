@@ -3,8 +3,8 @@ title: 微信公众号开发文档
 date: 2018/02/16
 categories: 技术博客
 ---
-<!-- more -->
 ## How To Use
+<!-- more -->
 [![Travis](https://travis-ci.org/FastBootWeixin/FastBootWeixin.svg?branch=master)](http://weixin.mxixm.com)
 [![Maven Central](https://img.shields.io/badge/maven--central-0.3.5-blue.svg)](http://search.maven.org/#artifactdetails%7Ccom.mxixm%7Cfastboot-weixin%7C0.3.5%7Cjar)
 [![License](http://img.shields.io/:license-apache-brightgreen.svg)](http://www.apache.org/licenses/LICENSE-2.0.html)
