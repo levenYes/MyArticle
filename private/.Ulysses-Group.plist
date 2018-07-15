@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>resolutionData</key>
+	<dict>
+		<key>sheetClusters</key>
+		<dict>
+			<key>Letter180119.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>553371932.19583297</real>
+				<key>version</key>
+				<dict>
+					<key>ff23a1fe536b20576a12c6e22ca5841cbd01fc03b6b3d60eab54e8b2844fa452</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>上下班检查清单.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>553371932.19583404</real>
+				<key>version</key>
+				<dict>
+					<key>ff23a1fe536b20576a12c6e22ca5841cbd01fc03b6b3d60eab54e8b2844fa452</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>无标题.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>553371932.19582999</real>
+				<key>version</key>
+				<dict>
+					<key>ff23a1fe536b20576a12c6e22ca5841cbd01fc03b6b3d60eab54e8b2844fa452</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+		</dict>
+	</dict>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>无标题.md</string>
+		</array>
+		<array>
+			<string>Letter180119.md</string>
+		</array>
+		<array>
+			<string>上下班检查清单.md</string>
+		</array>
+	</array>
+	<key>storeFormatVersion</key>
+	<integer>1</integer>
+	<key>versioning</key>
+	<dict>
+		<key>sheetClusters</key>
+		<dict>
+			<key>ff23a1fe536b20576a12c6e22ca5841cbd01fc03b6b3d60eab54e8b2844fa452</key>
+			<integer>2</integer>
+		</dict>
+	</dict>
+</dict>
+</plist>
